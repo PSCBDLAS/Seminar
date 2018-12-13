@@ -3,6 +3,36 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="BDL Seminar">
     <body>
       <group id="body">
+        <trans-unit id="Table 1123153734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1123153734 - Field 1668694013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Setup - Field Primary key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1123153734 - Field 1680254837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Setup - Field Seminar Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1123153734 - Field 2843771166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Registration Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Setup - Field Seminar Registration Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1123153734 - Field 744358664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Seminar Reg. Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Setup - Field Posted Seminar Reg. Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1123153734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar Setup - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3142800443 - Control 371786543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Room</source>
           <note from="Developer" annotates="general" priority="2"></note>
