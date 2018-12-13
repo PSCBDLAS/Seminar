@@ -2,7 +2,8 @@ table 50101 "BDL Seminar"
 {
     DataClassification = CustomerContent;
     Caption = 'Seminar';
-
+    LookupPageId = "BDL Seminar List";
+    DrillDownPageId = "BDL Seminar List";
     fields
     {
         field(1; "No."; Code[20])

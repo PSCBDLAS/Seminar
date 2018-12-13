@@ -4,6 +4,7 @@ page 50102 "BDL Seminar List"
     PageType = List;
     ApplicationArea = All;
     UsageCategory = Lists;
+    CardPageId = "BDL Seminar Card";
     SourceTable = "BDL Seminar";
     Caption = 'Seminar list';
     Editable = false;
@@ -56,25 +57,30 @@ page 50102 "BDL Seminar List"
 
             }
         }
-        area(Factboxes)
-        {
 
-        }
     }
 
     actions
     {
-        area(Processing)
+        area(Navigation)
         {
-            action(ActionName)
+            group("&Seminar")
             {
-                ApplicationArea = All;
+                action("Co&mments")
+                {
+                    ApplicationArea = All;
+                    Image = Comment;
+                    Promoted = true;
+                    PromotedIsBig = true;
+                    PromotedOnly = true;
 
-                trigger OnAction();
-                begin
-
-                end;
+                    trigger OnAction()
+                    begin
+                        //TO DO : Return to code runobj
+                    end;
+                }
             }
+
         }
     }
 }

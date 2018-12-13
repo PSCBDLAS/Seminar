@@ -129,6 +129,4 @@ page 50101 "BDL Seminar Card"
         }
     }
 
-    var
-        myInt: Integer;
 }
