@@ -1,0 +1,26 @@
+{
+  "id": "2fa2f275-ab3d-4bef-9cc4-b240a9cac087",
+  "name": "BDL Seminar",
+  "publisher": "BDL A/S Peter Steen",
+  "brief": "Semniarmodule to end all seminarmodules",
+  "description": "See brief descrription",
+  "version": "1.0.0.1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./Images/Logo.PNG",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features": ["TranslationFile"],
+  "showMyCode": true,
+  "target": "Internal",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.1"
+}
