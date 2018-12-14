@@ -157,6 +157,11 @@ table 50132 "BDL Seminar Ledger Entry"
         key(Key1; "Entry No.")
         {
         }
+        key("NavigateKey"; "Document No.", "Posting Date")
+        {
+
+        }
+
     }
 
     fieldgroups

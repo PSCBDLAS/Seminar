@@ -124,8 +124,44 @@ page 50101 "BDL Seminar Card"
                         //TO DO : Return to code runobj
                     end;
                 }
+                action("Ledger Entries")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Ledger Entries';
+                    RunObject = page "BDL Seminar Ledger Entries";
+                    RunPageLink = "Seminar No." = field ("No.");
+                    Promoted = true;
+                    PromotedCategory = Process;
+                    ShortcutKey = "Ctrl+F7";
+                    Image = LedgerEntries;
+                }
+                action("&Registrations")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Registrations';
+                    RunObject = page "BDL Seminar Registration List";
+                    RunPageLink = "Seminar No." = field ("No.");
+                    Promoted = true;
+                    PromotedCategory = Process;
+                    Image = Timesheet;
+                }
+
             }
 
+        }
+        area(Processing)
+        {
+            action("Seminar Registrations")
+            {
+                ApplicationArea = All;
+                Caption = 'Seminar Registrations';
+                RunObject = page "BDL Seminar Registration";
+                RunPageLink = "Seminar No." = field ("No.");
+                RunPageMode = Create;
+                Promoted = true;
+                PromotedCategory = New;
+                Image = Timesheet;
+            }
         }
     }
 

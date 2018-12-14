@@ -352,6 +352,10 @@ table 50110 "BDL Seminar Reg. Header"
         "Document Date" := WORKDATE;
         SeminarSetup.GET;
         NoSeriesMgt.SetDefaultSeries("Posting No. Series", SeminarSetup."Posted Seminar Reg. Nos.");
+
+        if GetFilter("Seminar No.") <> '' then
+            if GetRangeMin("Seminar No.") = GetRangeMax("Seminar No.") then
+                validate("Seminar No.", GetRangeMax("Seminar No."));
     end;
 
     procedure AssistEdit(OldSeminarRegHeader: Record "BDL Seminar Reg. Header"): Boolean;
