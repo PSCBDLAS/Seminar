@@ -34,10 +34,10 @@ page 50102 "BDL Seminar List"
                     ApplicationArea = All;
                     Caption = 'Seminar price';
                 }
-                field("Minumum Participants"; "Minumum Participants")
+                field("Minimum Participants"; "Minimum Participants")
                 {
                     ApplicationArea = All;
-                    Caption = 'Minumum Participants';
+                    Caption = 'Minimum Participants';
                 }
                 field("Maximum Participants"; "Maximum Participants")
                 {

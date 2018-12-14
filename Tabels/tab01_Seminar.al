@@ -35,10 +35,10 @@ table 50101 "BDL Seminar"
             DecimalPlaces = 0 : 1;
 
         }
-        field(4; "Minumum Participants"; Integer)
+        field(4; "Minimum Participants"; Integer)
         {
             DataClassification = ToBeClassified;
-            Caption = 'Minumum Participants';
+            Caption = 'Minimum Participants';
 
         }
         field(5; "Maximum Participants"; Integer)

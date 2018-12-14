@@ -53,10 +53,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar - Field Seminar Duration - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 4042976951 - Field 1005384578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Minumum Participants</source>
+        <trans-unit id="Table 4042976951 - Field 3811274366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Participants</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar - Field Minumum Participants - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar - Field Minimum Participants - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 4042976951 - Field 3200663424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Maximum Participants</source>
@@ -108,10 +108,45 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 829470708 - Field 1296262074 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MyField</source>
+        <trans-unit id="Table 829470708 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field MyField - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 829470708 - Field 3808951907 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar,Seminar Registration,Posted Seminar Registration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field Table Name - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 829470708 - Field 2480638018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field Document Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 829470708 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 829470708 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 829470708 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 829470708 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 829470708 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BDL Seminar Comment Line - Field Comment - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1584832883 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Seminar</source>
@@ -138,10 +173,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar Card - Control Seminar Duration - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1584832883 - Control 1005384578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Minumum Participants</source>
+        <trans-unit id="Page 1584832883 - Control 3811274366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Participants</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar Card - Control Minumum Participants - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar Card - Control Minimum Participants - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1584832883 - Control 3200663424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Maximum Participants</source>
@@ -198,15 +233,25 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar List - Control Seminar price - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1102345089 - Control 1005384578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Minumum Participants</source>
+        <trans-unit id="Page 1102345089 - Control 3811274366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Participants</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar List - Control Minumum Participants - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar List - Control Minimum Participants - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1102345089 - Control 3200663424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Maximum Participants</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar List - Control Maximum Participants - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3972908459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Comment Sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar Comment Sheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2393844752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar Comment List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BDL Seminar Comment List - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 3142800443 - Control 371786543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Room</source>

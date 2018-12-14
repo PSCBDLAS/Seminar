@@ -41,10 +41,10 @@ page 50101 "BDL Seminar Card"
                     Caption = 'Seminar Duration';
 
                 }
-                field("Minumum Participants"; "Minumum Participants")
+                field("Minimum Participants"; "Minimum Participants")
                 {
                     ApplicationArea = All;
-                    Caption = 'Minumum Participants';
+                    Caption = 'Minimum Participants';
 
                 }
                 field("Maximum Participants"; "Maximum Participants")
