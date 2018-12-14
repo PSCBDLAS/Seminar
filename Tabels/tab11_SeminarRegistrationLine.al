@@ -1,5 +1,5 @@
 table 50111 "BDL Seminar Registration Line"
-// BDL1.00 - 2018-01-01 - D. E. Veloper
+// BDL1.00 - 2018-01-01 - Peter Steen Christensen
 //   Chapter 6 - Lab 1-5
 //     - Created new table
 {
